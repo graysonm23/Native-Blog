@@ -1,4 +1,4 @@
-# Blogging Application Using React-Native (with Redux from scratch)
+# Blogging Application Using React-Native (with Redux store from scratch)
 
 ## Deployment 
 Application is not deployed to iOS nor Android store. Application was made for pure developmental experience purposes. 
