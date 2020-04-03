@@ -17,6 +17,7 @@ const EditScreen = ({ navigation }) => {
     />
   );
 };
+
 EditScreen.navigationOptions = ({ navigation }) => {
   return {
     headerStyle: {
