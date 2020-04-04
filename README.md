@@ -5,7 +5,7 @@ Application is not deployed to iOS nor Android store. Application was made for p
 
 Home:                      |          Preview:         |           Edit:           |     Create:
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
- <img width="150" height="300" alt="blog" src="https://user-images.githubusercontent.com/52672474/78414132-5bb60100-75e0-11ea-8fb9-bb65b921711d.png"> |  <img width="150" height="300" height alt="preview blog" src="https://user-images.githubusercontent.com/52672474/78414186-9029bd00-75e0-11ea-8493-4ee128581852.png"> |  <img width="150" height="300" alt="edit blog" src="https://user-images.githubusercontent.com/52672474/78414278-09291480-75e1-11ea-85d9-3fa54e88198e.png"> |  <img width="150" height="300" alt="create blog" src="https://user-images.githubusercontent.com/52672474/78414296-1c3be480-75e1-11ea-80f1-eb4fe5f6f68d.png">
+ <img width="200" height="400" alt="blog" src="https://user-images.githubusercontent.com/52672474/78414132-5bb60100-75e0-11ea-8fb9-bb65b921711d.png"> |  <img width="200" height="400" height alt="preview blog" src="https://user-images.githubusercontent.com/52672474/78414186-9029bd00-75e0-11ea-8493-4ee128581852.png"> |  <img width="200" height="400" alt="edit blog" src="https://user-images.githubusercontent.com/52672474/78414278-09291480-75e1-11ea-85d9-3fa54e88198e.png"> |  <img width="200" height="400" alt="create blog" src="https://user-images.githubusercontent.com/52672474/78414296-1c3be480-75e1-11ea-80f1-eb4fe5f6f68d.png">
 
 
 ## Why Was It Made
