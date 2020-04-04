@@ -16,6 +16,9 @@ Utilizing the MVC model structure, in this case it's the V, components are rende
 What makes this application awesome, was getting to work with Context. Using React's useContext I was able to not only pass down parameters, like React normally does through props from Parent to Child, 
 but skip the Parent to the n-th Child. Context is used as a wrapper for the application and stores global values that any Child component can access. Almost like using a Redux store. 
 
+## Backend
+For the backend I created a fake server/database using jsonServer npm. To create the http i used ngrok npm, which allows me to make my axios requests.
+
 ## User Interaction
 Using CRUD (Create, Read, Update, Delete) operations the use make a new blog post and store it for a later time. If the user is unhappy or would like to add upon what they have already blogged about, they can certainly edit the post or delete it.
 
